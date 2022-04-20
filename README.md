@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroBarbosaFR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroBarbosaFR&layout=compact&langs_count=7&theme=dracula"/>
     </div>
-<div style="display: inline_block"><br><br><br>
+<div style="display: inline_block"><br><br>
    <img align="center" alt="LEO-RUBY" height="30" widht="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img align="center" alt="Leo-node-JS" height="30" widht="40" 
