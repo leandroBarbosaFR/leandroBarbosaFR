@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroBarbosaFR&layout=compact&langs_count=7&theme=dracula"/>
     </div>
 <div style="display: inline_block"><br><br>
-   <img align="center" alt="RUBY-LEO" height="30" widht="40" 
+   <img align="center" alt="ruby-leo" height="30" widht="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img align="center" alt="Leo-NODE-JS" height="30" widht="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
