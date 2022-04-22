@@ -24,5 +24,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
  
   
   </div>
-
-  ![snake gif](https://github.com/leandroBarbosaFR/leandroBarbosaFR/blob/output/github-contribution-grid-snake.svg)
+ <!--![snake gif](https://github.com/leandroBarbosaFR/leandroBarbosaFR/blob/output/github-contribution-grid-snake.svg)-->
+   
+   
