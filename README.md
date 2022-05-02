@@ -8,7 +8,6 @@
    <img align="center" alt="rubY-Leo" height="30" widht="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img align="center" alt="Leo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="LEO-HTML5" height="30" width="40" src="https://raw.githubuserconteynt.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LEO-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
   </div>
