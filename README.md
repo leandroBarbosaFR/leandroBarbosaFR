@@ -6,4 +6,3 @@ RUBY |
 RUBY ON RAILS | 
 PHP | 
 SYMFONY | 
-SQL
